@@ -1,0 +1,7 @@
+.venv/
+render_screens.py
+screenshots/
+*.pdf
+*.png
+*.jpg
+*.zip
